@@ -15,7 +15,7 @@
   
   <p align="center">
     <br />
-    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
+    <a href="#ROADMAP"><strong>Como contribuir</strong></a>
     <br />
     <br />
     <a href="link-para-abrir-issue">Report Bug</a>
@@ -40,7 +40,6 @@ A ideia se baseia em pegar exercicios de faculdade, desde o mais simples até o 
 - [0 - Hello World (não irá contar)](link-primeira-parte)
 - [1 - Soma de dois números](link-primeira-parte)
 - [2 - Área de um circulo](link-segunda-parte)
-- [3 - ](link-terceira-parte)
 
 
   
