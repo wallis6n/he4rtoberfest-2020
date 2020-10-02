@@ -60,15 +60,18 @@ A ideia do desafio 0 é deixar registrado todos os participantes do He4rtoberfes
 Quando você for criar a branch para mandar o Pull Request, você deverá seguir o exemplo abaixo:
 
 1. Realize um Fork do projeto
-2. Crie um branch com o desafio seguindo o modelo ao lado (`git checkout -b challenges/challenge_id/lang/nickname`)
-3. O exemplo acima ficaria assim do desafio 0 feito em PHP: (`git checkout -b challenges/0/php/danielhe4rt`)
-3. Realize o Commit (`git commit -m 'Finalizando o desafio'`)
-4. Realize o Push no Branch (`git push origin challenges/challenge_id/lang/nickname`)
-5. Abra um Pull Request
+2. Crie uma pasta no diretório `challenges/challenge_id/lang/nickname
+3. Resolva o desafio 
+4. Copie o [model.md](/challenges/model.md) para a sua pasta e preencha com as informações descritas
+5. Crie um branch com o desafio seguindo o modelo ao lado (`git checkout -b challenges/challenge_id/lang/nickname`)
+6. O exemplo acima ficaria assim do desafio 0 feito em PHP: (`git checkout -b challenges/0/php/danielhe4rt`)
+7. Realize o Commit (`git commit -m 'Finalizando o desafio'`)
+8. Realize o Push no Branch (`git push origin challenges/challenge_id/lang/nickname`)
+9. Abra um Pull Request
 
 ## Revisão de Pull Requests
 
-Como o nosso objetivo será dar a melhor experiência possível para o participante, nós iremos ter algumas regras básicas de revisão de código para que seja uma interessante para quem está aplicando o desafio, sendo elas:
+Como o nosso objetivo será dar a melhor experiência possível para o participante, nós iremos ter algumas regras básicas de revisão de código para que seja uma experiência interessante para quem está aplicando o desafio, sendo elas:
 
 - Reforçar uma leitura de código e tipagem quando possível;
 - Erros de digitação/gramaticais e nomes de variáveis sem um contexto, tais como [a,b,c,x,y,z] deverão ser pedidas alterações;
