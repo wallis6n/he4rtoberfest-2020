@@ -66,6 +66,16 @@ Quando você for criar a branch para mandar o Pull Request, você deverá seguir
 4. Realize o Push no Branch (`git push origin challenges/challenge_id/lang/nickname`)
 5. Abra um Pull Request
 
+## Revisão de Pull Requests
+
+Como o nosso objetivo será dar a melhor experiência possível para o participante, nós iremos ter algumas regras básicas de revisão de código para que seja uma interessante para quem está aplicando o desafio, sendo elas:
+
+- Reforçar uma leitura de código e tipagem quando possível;
+- Erros de digitação/gramaticais e nomes de variáveis sem um contexto, tais como [a,b,c,x,y,z] deverão ser pedidas alterações;
+- Isolamento de funções quando necessário também poderá ser requisitado.
+
+Qualquer dúvida, poderá ir o nosso [banco de dúvidas](https://github.com/he4rtlabs/he4rtoberfest-2020/issues/1) e perguntar.
+
 ## Materiais complementares
 
 - [**Git4Noobs**](https://github.com/danielhe4rt/git4noobs)
